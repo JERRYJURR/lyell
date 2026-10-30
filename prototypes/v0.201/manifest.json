@@ -1,0 +1,162 @@
+[
+  {
+    "file": "LyellSans-Bold.ttf",
+    "family": "Lyell Sans",
+    "style": "Bold",
+    "weight": 700,
+    "italic": false,
+    "glyphs": 2871,
+    "renamed_from": "ProofSans-Bold.ttf",
+    "sha256": "482bde1bc3c6939d5106865b2d268d43c581ae07eeb6f33f26987280ce0ea5a0"
+  },
+  {
+    "file": "LyellSans-BoldItalic.ttf",
+    "family": "Lyell Sans",
+    "style": "Bold Italic",
+    "weight": 700,
+    "italic": true,
+    "glyphs": 2835,
+    "renamed_from": "ProofSans-BoldItalic.ttf",
+    "sha256": "660746daac6dede2ae4b4a48e2d5e016450ffa5e1f2edde9a83eb718cd934bd1"
+  },
+  {
+    "file": "LyellSans-Italic.ttf",
+    "family": "Lyell Sans",
+    "style": "Italic",
+    "weight": 400,
+    "italic": true,
+    "glyphs": 2835,
+    "renamed_from": "ProofSans-Italic.ttf",
+    "sha256": "2d337c0072da6c5fe2860109a88fa1ad5769e5111511a0fee5aa628d7996147f"
+  },
+  {
+    "file": "LyellSans-Medium.ttf",
+    "family": "Lyell Sans",
+    "style": "Medium",
+    "weight": 500,
+    "italic": false,
+    "glyphs": 2871,
+    "renamed_from": "ProofSans-Medium.ttf",
+    "sha256": "1a24958be1954e0cabd9b559a3c5174044cc8875c094c48eb069cf37ab28c9f2"
+  },
+  {
+    "file": "LyellSans-MediumItalic.ttf",
+    "family": "Lyell Sans",
+    "style": "Medium Italic",
+    "weight": 500,
+    "italic": true,
+    "glyphs": 2835,
+    "renamed_from": "ProofSans-MediumItalic.ttf",
+    "sha256": "62626c306c91e6279aaa6ed614cd1fcc685d426d3acde595d0740041f2f5768d"
+  },
+  {
+    "file": "LyellSans-Regular.ttf",
+    "family": "Lyell Sans",
+    "style": "Regular",
+    "weight": 400,
+    "italic": false,
+    "glyphs": 2871,
+    "renamed_from": "ProofSans-Regular.ttf",
+    "sha256": "ad0f94c3ead2850f15c15363180f05f8a5e3e8ce9090f0d241984ab05a401b86"
+  },
+  {
+    "file": "LyellSans-Semibold.ttf",
+    "family": "Lyell Sans",
+    "style": "Semibold",
+    "weight": 600,
+    "italic": false,
+    "glyphs": 2871,
+    "renamed_from": "ProofSans-Semibold.ttf",
+    "sha256": "b63c04da8c579b4dbd4baacc223bebb3fb220fea0f2e9048ad9a918968644627"
+  },
+  {
+    "file": "LyellSans-SemiboldItalic.ttf",
+    "family": "Lyell Sans",
+    "style": "Semibold Italic",
+    "weight": 600,
+    "italic": true,
+    "glyphs": 2835,
+    "renamed_from": "ProofSans-SemiboldItalic.ttf",
+    "sha256": "9ee77d89ae6a43f6569260f64149a4d88b8375a111039262ea0501f3df93791d"
+  },
+  {
+    "file": "LyellSerif-Bold.ttf",
+    "family": "Lyell Serif",
+    "style": "Bold",
+    "weight": 700,
+    "italic": false,
+    "glyphs": 1385,
+    "renamed_from": "ProofSerif-Bold.ttf",
+    "sha256": "76f871e7e7b8325e181af421c767d24d0cb034f9153bc76f3c6df00754076f3e"
+  },
+  {
+    "file": "LyellSerif-BoldItalic.ttf",
+    "family": "Lyell Serif",
+    "style": "Bold Italic",
+    "weight": 700,
+    "italic": true,
+    "glyphs": 1391,
+    "renamed_from": "ProofSerif-BoldItalic.ttf",
+    "sha256": "19dce03f7edf2092e5e770ade1136b611032a85ecae5b7db36ecbe9a1f4769f6"
+  },
+  {
+    "file": "LyellSerif-Italic.ttf",
+    "family": "Lyell Serif",
+    "style": "Italic",
+    "weight": 400,
+    "italic": true,
+    "glyphs": 1391,
+    "renamed_from": "ProofSerif-Italic.ttf",
+    "sha256": "a8f50bb4b1ebbe42d9e49ece45819aae286e9b6deaf3e88935872dec9e7a0080"
+  },
+  {
+    "file": "LyellSerif-Medium.ttf",
+    "family": "Lyell Serif",
+    "style": "Medium",
+    "weight": 500,
+    "italic": false,
+    "glyphs": 1385,
+    "renamed_from": "ProofSerif-Medium.ttf",
+    "sha256": "13af37d9ee1945ba083f5330fd37a40d5c0342ea739468c54c8f31154a9bf15a"
+  },
+  {
+    "file": "LyellSerif-MediumItalic.ttf",
+    "family": "Lyell Serif",
+    "style": "Medium Italic",
+    "weight": 500,
+    "italic": true,
+    "glyphs": 1391,
+    "renamed_from": "ProofSerif-MediumItalic.ttf",
+    "sha256": "bc57eeed9955ca01f7b89d784754c50d158ec954a260d8cef8fa1febfa5218f8"
+  },
+  {
+    "file": "LyellSerif-Regular.ttf",
+    "family": "Lyell Serif",
+    "style": "Regular",
+    "weight": 400,
+    "italic": false,
+    "glyphs": 1385,
+    "renamed_from": "ProofSerif-Regular.ttf",
+    "sha256": "4af9fb09416e166df1919cf3bfbfebbca97af012b556f22417859c13abc55352"
+  },
+  {
+    "file": "LyellSerif-Semibold.ttf",
+    "family": "Lyell Serif",
+    "style": "Semibold",
+    "weight": 600,
+    "italic": false,
+    "glyphs": 1385,
+    "renamed_from": "ProofSerif-Semibold.ttf",
+    "sha256": "1150450b712638481188a10094bf245a9f7d451bdbc969ddea63ac28ac781e12"
+  },
+  {
+    "file": "LyellSerif-SemiboldItalic.ttf",
+    "family": "Lyell Serif",
+    "style": "Semibold Italic",
+    "weight": 600,
+    "italic": true,
+    "glyphs": 1391,
+    "renamed_from": "ProofSerif-SemiboldItalic.ttf",
+    "sha256": "0be000096c6fcb55af99474cca06ae410dfee2071ebcdbabc492767a8e939641"
+  }
+]

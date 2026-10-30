@@ -1,0 +1,178 @@
+[
+  {
+    "file": "LyellSans-Bold.ttf",
+    "glyphs_rendered_at_each_size": 2871,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSans-BoldItalic.ttf",
+    "glyphs_rendered_at_each_size": 2835,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSans-Italic.ttf",
+    "glyphs_rendered_at_each_size": 2835,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSans-Medium.ttf",
+    "glyphs_rendered_at_each_size": 2871,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSans-MediumItalic.ttf",
+    "glyphs_rendered_at_each_size": 2835,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSans-Regular.ttf",
+    "glyphs_rendered_at_each_size": 2871,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSans-Semibold.ttf",
+    "glyphs_rendered_at_each_size": 2871,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSans-SemiboldItalic.ttf",
+    "glyphs_rendered_at_each_size": 2835,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSerif-Bold.ttf",
+    "glyphs_rendered_at_each_size": 1385,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSerif-BoldItalic.ttf",
+    "glyphs_rendered_at_each_size": 1391,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSerif-Italic.ttf",
+    "glyphs_rendered_at_each_size": 1391,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSerif-Medium.ttf",
+    "glyphs_rendered_at_each_size": 1385,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSerif-MediumItalic.ttf",
+    "glyphs_rendered_at_each_size": 1391,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSerif-Regular.ttf",
+    "glyphs_rendered_at_each_size": 1385,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSerif-Semibold.ttf",
+    "glyphs_rendered_at_each_size": 1385,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "LyellSerif-SemiboldItalic.ttf",
+    "glyphs_rendered_at_each_size": 1391,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  }
+]

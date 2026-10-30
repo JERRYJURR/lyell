@@ -1,0 +1,3362 @@
+[
+  {
+    "file": "LyellSans-Bold.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [],
+    "repairs": [
+      {
+        "glyphs": [
+          "f",
+          "t"
+        ],
+        "pair": "ft",
+        "units": 64
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 17
+  },
+  {
+    "file": "LyellSans-BoldItalic.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [],
+    "repairs": [
+      {
+        "glyphs": [
+          "Q",
+          "j"
+        ],
+        "pair": "Qj",
+        "units": 96
+      },
+      {
+        "glyphs": [
+          "a",
+          "x"
+        ],
+        "pair": "ax",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "T"
+        ],
+        "pair": "fT",
+        "units": 48
+      },
+      {
+        "glyphs": [
+          "f",
+          "V"
+        ],
+        "pair": "fV",
+        "units": 80
+      },
+      {
+        "glyphs": [
+          "f",
+          "W"
+        ],
+        "pair": "fW",
+        "units": 80
+      },
+      {
+        "glyphs": [
+          "f",
+          "Y"
+        ],
+        "pair": "fY",
+        "units": 48
+      },
+      {
+        "glyphs": [
+          "f",
+          "f"
+        ],
+        "pair": "ff",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "t"
+        ],
+        "pair": "ft",
+        "units": 160
+      },
+      {
+        "glyphs": [
+          "f",
+          "v"
+        ],
+        "pair": "fv",
+        "units": 48
+      },
+      {
+        "glyphs": [
+          "f",
+          "y"
+        ],
+        "pair": "fy",
+        "units": 48
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 189
+  },
+  {
+    "file": "LyellSans-Italic.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [],
+    "repairs": [
+      {
+        "glyphs": [
+          "a",
+          "A"
+        ],
+        "pair": "aA",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "V"
+        ],
+        "pair": "fV",
+        "units": 48
+      },
+      {
+        "glyphs": [
+          "f",
+          "W"
+        ],
+        "pair": "fW",
+        "units": 64
+      },
+      {
+        "glyphs": [
+          "f",
+          "Y"
+        ],
+        "pair": "fY",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "t"
+        ],
+        "pair": "ft",
+        "units": 128
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 983
+  },
+  {
+    "file": "LyellSans-Medium.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [],
+    "repairs": [
+      {
+        "glyphs": [
+          "f",
+          "t"
+        ],
+        "pair": "ft",
+        "units": 48
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 17
+  },
+  {
+    "file": "LyellSans-MediumItalic.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [],
+    "repairs": [
+      {
+        "glyphs": [
+          "f",
+          "V"
+        ],
+        "pair": "fV",
+        "units": 64
+      },
+      {
+        "glyphs": [
+          "f",
+          "W"
+        ],
+        "pair": "fW",
+        "units": 64
+      },
+      {
+        "glyphs": [
+          "f",
+          "Y"
+        ],
+        "pair": "fY",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "t"
+        ],
+        "pair": "ft",
+        "units": 144
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 54
+  },
+  {
+    "file": "LyellSans-Regular.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [],
+    "repairs": [
+      {
+        "glyphs": [
+          "f",
+          "t"
+        ],
+        "pair": "ft",
+        "units": 48
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 17
+  },
+  {
+    "file": "LyellSans-Semibold.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [],
+    "repairs": [
+      {
+        "glyphs": [
+          "f",
+          "t"
+        ],
+        "pair": "ft",
+        "units": 64
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 17
+  },
+  {
+    "file": "LyellSans-SemiboldItalic.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [],
+    "repairs": [
+      {
+        "glyphs": [
+          "f",
+          "T"
+        ],
+        "pair": "fT",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "V"
+        ],
+        "pair": "fV",
+        "units": 64
+      },
+      {
+        "glyphs": [
+          "f",
+          "W"
+        ],
+        "pair": "fW",
+        "units": 64
+      },
+      {
+        "glyphs": [
+          "f",
+          "Y"
+        ],
+        "pair": "fY",
+        "units": 48
+      },
+      {
+        "glyphs": [
+          "f",
+          "t"
+        ],
+        "pair": "ft",
+        "units": 144
+      },
+      {
+        "glyphs": [
+          "f",
+          "v"
+        ],
+        "pair": "fv",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "y"
+        ],
+        "pair": "fy",
+        "units": 32
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 95
+  },
+  {
+    "file": "LyellSerif-Bold.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [
+      "fb",
+      "ff",
+      "fh",
+      "fi",
+      "fj",
+      "fk",
+      "fl"
+    ],
+    "repairs": [
+      {
+        "glyphs": [
+          "K",
+          "f"
+        ],
+        "pair": "Kf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "A"
+        ],
+        "pair": "RA",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "J"
+        ],
+        "pair": "RJ",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "X"
+        ],
+        "pair": "RX",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "R",
+          "f"
+        ],
+        "pair": "Rf",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "R",
+          "r"
+        ],
+        "pair": "Rr",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "x"
+        ],
+        "pair": "Rx",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "X",
+          "f"
+        ],
+        "pair": "Xf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "a",
+          "J"
+        ],
+        "pair": "aJ",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "f",
+          "B"
+        ],
+        "pair": "fB",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "D"
+        ],
+        "pair": "fD",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "E"
+        ],
+        "pair": "fE",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "F"
+        ],
+        "pair": "fF",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "H"
+        ],
+        "pair": "fH",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "I"
+        ],
+        "pair": "fI",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "K"
+        ],
+        "pair": "fK",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "L"
+        ],
+        "pair": "fL",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "M"
+        ],
+        "pair": "fM",
+        "units": 79
+      },
+      {
+        "glyphs": [
+          "f",
+          "N"
+        ],
+        "pair": "fN",
+        "units": 86
+      },
+      {
+        "glyphs": [
+          "f",
+          "P"
+        ],
+        "pair": "fP",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "R"
+        ],
+        "pair": "fR",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "S"
+        ],
+        "pair": "fS",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "T"
+        ],
+        "pair": "fT",
+        "units": 79
+      },
+      {
+        "glyphs": [
+          "f",
+          "U"
+        ],
+        "pair": "fU",
+        "units": 79
+      },
+      {
+        "glyphs": [
+          "f",
+          "V"
+        ],
+        "pair": "fV",
+        "units": 133
+      },
+      {
+        "glyphs": [
+          "f",
+          "W"
+        ],
+        "pair": "fW",
+        "units": 110
+      },
+      {
+        "glyphs": [
+          "f",
+          "X"
+        ],
+        "pair": "fX",
+        "units": 110
+      },
+      {
+        "glyphs": [
+          "f",
+          "Y"
+        ],
+        "pair": "fY",
+        "units": 118
+      },
+      {
+        "glyphs": [
+          "f",
+          "Z"
+        ],
+        "pair": "fZ",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "f",
+          "v"
+        ],
+        "pair": "fv",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "w"
+        ],
+        "pair": "fw",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "x"
+        ],
+        "pair": "fx",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "f",
+          "y"
+        ],
+        "pair": "fy",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "g",
+          "j"
+        ],
+        "pair": "gj",
+        "units": 79
+      },
+      {
+        "glyphs": [
+          "g",
+          "v"
+        ],
+        "pair": "gv",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "g",
+          "w"
+        ],
+        "pair": "gw",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "y"
+        ],
+        "pair": "gy",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "k",
+          "f"
+        ],
+        "pair": "kf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "r",
+          "v"
+        ],
+        "pair": "rv",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "r",
+          "y"
+        ],
+        "pair": "ry",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "u",
+          "f"
+        ],
+        "pair": "uf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "v",
+          "f"
+        ],
+        "pair": "vf",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "v",
+          "r"
+        ],
+        "pair": "vr",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "v",
+          "t"
+        ],
+        "pair": "vt",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "w",
+          "f"
+        ],
+        "pair": "wf",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "w",
+          "r"
+        ],
+        "pair": "wr",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "w",
+          "t"
+        ],
+        "pair": "wt",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "x",
+          "f"
+        ],
+        "pair": "xf",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "x",
+          "r"
+        ],
+        "pair": "xr",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "y",
+          "f"
+        ],
+        "pair": "yf",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "y",
+          "r"
+        ],
+        "pair": "yr",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "y",
+          "t"
+        ],
+        "pair": "yt",
+        "units": 32
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 1487
+  },
+  {
+    "file": "LyellSerif-BoldItalic.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [
+      "fb",
+      "ff",
+      "fh",
+      "fi",
+      "fj",
+      "fk",
+      "fl"
+    ],
+    "repairs": [
+      {
+        "glyphs": [
+          "K",
+          "R"
+        ],
+        "pair": "KR",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "Q",
+          "y"
+        ],
+        "pair": "Qy",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "A"
+        ],
+        "pair": "RA",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "R",
+          "B"
+        ],
+        "pair": "RB",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "D"
+        ],
+        "pair": "RD",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "E"
+        ],
+        "pair": "RE",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "F"
+        ],
+        "pair": "RF",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "H"
+        ],
+        "pair": "RH",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "I"
+        ],
+        "pair": "RI",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "J"
+        ],
+        "pair": "RJ",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "R",
+          "K"
+        ],
+        "pair": "RK",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "L"
+        ],
+        "pair": "RL",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "M"
+        ],
+        "pair": "RM",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "N"
+        ],
+        "pair": "RN",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "R",
+          "P"
+        ],
+        "pair": "RP",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "R"
+        ],
+        "pair": "RR",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "X"
+        ],
+        "pair": "RX",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "R",
+          "x"
+        ],
+        "pair": "Rx",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "R",
+          "z"
+        ],
+        "pair": "Rz",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "W",
+          "R"
+        ],
+        "pair": "WR",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "a",
+          "J"
+        ],
+        "pair": "aJ",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "a",
+          "X"
+        ],
+        "pair": "aX",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "a",
+          "x"
+        ],
+        "pair": "ax",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "f",
+          "B"
+        ],
+        "pair": "fB",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "D"
+        ],
+        "pair": "fD",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "E"
+        ],
+        "pair": "fE",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "F"
+        ],
+        "pair": "fF",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "H"
+        ],
+        "pair": "fH",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "I"
+        ],
+        "pair": "fI",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "K"
+        ],
+        "pair": "fK",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "L"
+        ],
+        "pair": "fL",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "M"
+        ],
+        "pair": "fM",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "N"
+        ],
+        "pair": "fN",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "P"
+        ],
+        "pair": "fP",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "R"
+        ],
+        "pair": "fR",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "S"
+        ],
+        "pair": "fS",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "f",
+          "T"
+        ],
+        "pair": "fT",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "U"
+        ],
+        "pair": "fU",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "V"
+        ],
+        "pair": "fV",
+        "units": 102
+      },
+      {
+        "glyphs": [
+          "f",
+          "W"
+        ],
+        "pair": "fW",
+        "units": 94
+      },
+      {
+        "glyphs": [
+          "f",
+          "X"
+        ],
+        "pair": "fX",
+        "units": 94
+      },
+      {
+        "glyphs": [
+          "f",
+          "Y"
+        ],
+        "pair": "fY",
+        "units": 102
+      },
+      {
+        "glyphs": [
+          "f",
+          "Z"
+        ],
+        "pair": "fZ",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "f",
+          "v"
+        ],
+        "pair": "fv",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "w"
+        ],
+        "pair": "fw",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "x"
+        ],
+        "pair": "fx",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "f",
+          "y"
+        ],
+        "pair": "fy",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "g",
+          "g"
+        ],
+        "pair": "gg",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "g",
+          "j"
+        ],
+        "pair": "gj",
+        "units": 133
+      },
+      {
+        "glyphs": [
+          "g",
+          "v"
+        ],
+        "pair": "gv",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "w"
+        ],
+        "pair": "gw",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "y"
+        ],
+        "pair": "gy",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "r",
+          "f"
+        ],
+        "pair": "rf",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "r",
+          "i"
+        ],
+        "pair": "ri",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "r",
+          "v"
+        ],
+        "pair": "rv",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "r",
+          "w"
+        ],
+        "pair": "rw",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "r",
+          "x"
+        ],
+        "pair": "rx",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "r",
+          "y"
+        ],
+        "pair": "ry",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "t",
+          "J"
+        ],
+        "pair": "tJ",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "t",
+          "v"
+        ],
+        "pair": "tv",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "t",
+          "w"
+        ],
+        "pair": "tw",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "t",
+          "y"
+        ],
+        "pair": "ty",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "x",
+          "f"
+        ],
+        "pair": "xf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "z",
+          "R"
+        ],
+        "pair": "zR",
+        "units": 32
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 2491
+  },
+  {
+    "file": "LyellSerif-Italic.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [
+      "fb",
+      "ff",
+      "fh",
+      "fi",
+      "fj",
+      "fk",
+      "fl"
+    ],
+    "repairs": [
+      {
+        "glyphs": [
+          "R",
+          "A"
+        ],
+        "pair": "RA",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "R",
+          "J"
+        ],
+        "pair": "RJ",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "M"
+        ],
+        "pair": "RM",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "N"
+        ],
+        "pair": "RN",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "X"
+        ],
+        "pair": "RX",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "R",
+          "x"
+        ],
+        "pair": "Rx",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "R",
+          "z"
+        ],
+        "pair": "Rz",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "f",
+          "B"
+        ],
+        "pair": "fB",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "D"
+        ],
+        "pair": "fD",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "E"
+        ],
+        "pair": "fE",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "F"
+        ],
+        "pair": "fF",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "H"
+        ],
+        "pair": "fH",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "I"
+        ],
+        "pair": "fI",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "K"
+        ],
+        "pair": "fK",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "L"
+        ],
+        "pair": "fL",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "M"
+        ],
+        "pair": "fM",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "N"
+        ],
+        "pair": "fN",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "P"
+        ],
+        "pair": "fP",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "R"
+        ],
+        "pair": "fR",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "f",
+          "T"
+        ],
+        "pair": "fT",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "U"
+        ],
+        "pair": "fU",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "V"
+        ],
+        "pair": "fV",
+        "units": 94
+      },
+      {
+        "glyphs": [
+          "f",
+          "W"
+        ],
+        "pair": "fW",
+        "units": 86
+      },
+      {
+        "glyphs": [
+          "f",
+          "X"
+        ],
+        "pair": "fX",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "Y"
+        ],
+        "pair": "fY",
+        "units": 102
+      },
+      {
+        "glyphs": [
+          "f",
+          "Z"
+        ],
+        "pair": "fZ",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "f",
+          "v"
+        ],
+        "pair": "fv",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "f",
+          "w"
+        ],
+        "pair": "fw",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "f",
+          "y"
+        ],
+        "pair": "fy",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "g",
+          "j"
+        ],
+        "pair": "gj",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "g",
+          "v"
+        ],
+        "pair": "gv",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "g",
+          "w"
+        ],
+        "pair": "gw",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "y"
+        ],
+        "pair": "gy",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "r",
+          "v"
+        ],
+        "pair": "rv",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "r",
+          "w"
+        ],
+        "pair": "rw",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "r",
+          "x"
+        ],
+        "pair": "rx",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "r",
+          "y"
+        ],
+        "pair": "ry",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "t",
+          "v"
+        ],
+        "pair": "tv",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "t",
+          "w"
+        ],
+        "pair": "tw",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "t",
+          "y"
+        ],
+        "pair": "ty",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "z",
+          "R"
+        ],
+        "pair": "zR",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "z",
+          "g"
+        ],
+        "pair": "zg",
+        "units": 24
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 1369
+  },
+  {
+    "file": "LyellSerif-Medium.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [
+      "fb",
+      "ff",
+      "fh",
+      "fi",
+      "fj",
+      "fk",
+      "fl"
+    ],
+    "repairs": [
+      {
+        "glyphs": [
+          "R",
+          "A"
+        ],
+        "pair": "RA",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "J"
+        ],
+        "pair": "RJ",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "X"
+        ],
+        "pair": "RX",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "f"
+        ],
+        "pair": "Rf",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "x"
+        ],
+        "pair": "Rx",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "X",
+          "f"
+        ],
+        "pair": "Xf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "a",
+          "J"
+        ],
+        "pair": "aJ",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "f",
+          "B"
+        ],
+        "pair": "fB",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "D"
+        ],
+        "pair": "fD",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "E"
+        ],
+        "pair": "fE",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "F"
+        ],
+        "pair": "fF",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "H"
+        ],
+        "pair": "fH",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "I"
+        ],
+        "pair": "fI",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "K"
+        ],
+        "pair": "fK",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "L"
+        ],
+        "pair": "fL",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "M"
+        ],
+        "pair": "fM",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "N"
+        ],
+        "pair": "fN",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "P"
+        ],
+        "pair": "fP",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "R"
+        ],
+        "pair": "fR",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "T"
+        ],
+        "pair": "fT",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "U"
+        ],
+        "pair": "fU",
+        "units": 79
+      },
+      {
+        "glyphs": [
+          "f",
+          "V"
+        ],
+        "pair": "fV",
+        "units": 102
+      },
+      {
+        "glyphs": [
+          "f",
+          "W"
+        ],
+        "pair": "fW",
+        "units": 102
+      },
+      {
+        "glyphs": [
+          "f",
+          "X"
+        ],
+        "pair": "fX",
+        "units": 79
+      },
+      {
+        "glyphs": [
+          "f",
+          "Y"
+        ],
+        "pair": "fY",
+        "units": 102
+      },
+      {
+        "glyphs": [
+          "f",
+          "Z"
+        ],
+        "pair": "fZ",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "f",
+          "v"
+        ],
+        "pair": "fv",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "f",
+          "w"
+        ],
+        "pair": "fw",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "f",
+          "y"
+        ],
+        "pair": "fy",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "j"
+        ],
+        "pair": "gj",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "g",
+          "v"
+        ],
+        "pair": "gv",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "w"
+        ],
+        "pair": "gw",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "y"
+        ],
+        "pair": "gy",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "k",
+          "f"
+        ],
+        "pair": "kf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "v",
+          "f"
+        ],
+        "pair": "vf",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "w",
+          "f"
+        ],
+        "pair": "wf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "w",
+          "t"
+        ],
+        "pair": "wt",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "x",
+          "f"
+        ],
+        "pair": "xf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "y",
+          "f"
+        ],
+        "pair": "yf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "y",
+          "t"
+        ],
+        "pair": "yt",
+        "units": 16
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 1024
+  },
+  {
+    "file": "LyellSerif-MediumItalic.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [
+      "fb",
+      "ff",
+      "fh",
+      "fi",
+      "fj",
+      "fk",
+      "fl"
+    ],
+    "repairs": [
+      {
+        "glyphs": [
+          "K",
+          "R"
+        ],
+        "pair": "KR",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "A"
+        ],
+        "pair": "RA",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "R",
+          "J"
+        ],
+        "pair": "RJ",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "M"
+        ],
+        "pair": "RM",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "N"
+        ],
+        "pair": "RN",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "X"
+        ],
+        "pair": "RX",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "R",
+          "x"
+        ],
+        "pair": "Rx",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "R",
+          "z"
+        ],
+        "pair": "Rz",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "a",
+          "J"
+        ],
+        "pair": "aJ",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "f",
+          "B"
+        ],
+        "pair": "fB",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "D"
+        ],
+        "pair": "fD",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "E"
+        ],
+        "pair": "fE",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "F"
+        ],
+        "pair": "fF",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "H"
+        ],
+        "pair": "fH",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "I"
+        ],
+        "pair": "fI",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "K"
+        ],
+        "pair": "fK",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "L"
+        ],
+        "pair": "fL",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "M"
+        ],
+        "pair": "fM",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "N"
+        ],
+        "pair": "fN",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "P"
+        ],
+        "pair": "fP",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "R"
+        ],
+        "pair": "fR",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "T"
+        ],
+        "pair": "fT",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "U"
+        ],
+        "pair": "fU",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "V"
+        ],
+        "pair": "fV",
+        "units": 94
+      },
+      {
+        "glyphs": [
+          "f",
+          "W"
+        ],
+        "pair": "fW",
+        "units": 86
+      },
+      {
+        "glyphs": [
+          "f",
+          "X"
+        ],
+        "pair": "fX",
+        "units": 79
+      },
+      {
+        "glyphs": [
+          "f",
+          "Y"
+        ],
+        "pair": "fY",
+        "units": 102
+      },
+      {
+        "glyphs": [
+          "f",
+          "Z"
+        ],
+        "pair": "fZ",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "f",
+          "v"
+        ],
+        "pair": "fv",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "f",
+          "w"
+        ],
+        "pair": "fw",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "f",
+          "y"
+        ],
+        "pair": "fy",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "g",
+          "j"
+        ],
+        "pair": "gj",
+        "units": 86
+      },
+      {
+        "glyphs": [
+          "g",
+          "v"
+        ],
+        "pair": "gv",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "w"
+        ],
+        "pair": "gw",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "y"
+        ],
+        "pair": "gy",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "r",
+          "v"
+        ],
+        "pair": "rv",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "r",
+          "w"
+        ],
+        "pair": "rw",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "r",
+          "x"
+        ],
+        "pair": "rx",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "r",
+          "y"
+        ],
+        "pair": "ry",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "t",
+          "v"
+        ],
+        "pair": "tv",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "t",
+          "w"
+        ],
+        "pair": "tw",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "t",
+          "y"
+        ],
+        "pair": "ty",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "z",
+          "R"
+        ],
+        "pair": "zR",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "z",
+          "g"
+        ],
+        "pair": "zg",
+        "units": 24
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 1465
+  },
+  {
+    "file": "LyellSerif-Regular.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [
+      "fb",
+      "ff",
+      "fh",
+      "fi",
+      "fj",
+      "fk",
+      "fl"
+    ],
+    "repairs": [
+      {
+        "glyphs": [
+          "R",
+          "A"
+        ],
+        "pair": "RA",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "J"
+        ],
+        "pair": "RJ",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "X"
+        ],
+        "pair": "RX",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "f"
+        ],
+        "pair": "Rf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "x"
+        ],
+        "pair": "Rx",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "B"
+        ],
+        "pair": "fB",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "D"
+        ],
+        "pair": "fD",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "E"
+        ],
+        "pair": "fE",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "F"
+        ],
+        "pair": "fF",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "H"
+        ],
+        "pair": "fH",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "I"
+        ],
+        "pair": "fI",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "K"
+        ],
+        "pair": "fK",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "L"
+        ],
+        "pair": "fL",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "M"
+        ],
+        "pair": "fM",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "N"
+        ],
+        "pair": "fN",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "P"
+        ],
+        "pair": "fP",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "f",
+          "R"
+        ],
+        "pair": "fR",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "f",
+          "T"
+        ],
+        "pair": "fT",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "U"
+        ],
+        "pair": "fU",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "V"
+        ],
+        "pair": "fV",
+        "units": 102
+      },
+      {
+        "glyphs": [
+          "f",
+          "W"
+        ],
+        "pair": "fW",
+        "units": 102
+      },
+      {
+        "glyphs": [
+          "f",
+          "X"
+        ],
+        "pair": "fX",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "Y"
+        ],
+        "pair": "fY",
+        "units": 94
+      },
+      {
+        "glyphs": [
+          "f",
+          "Z"
+        ],
+        "pair": "fZ",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "f",
+          "v"
+        ],
+        "pair": "fv",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "f",
+          "w"
+        ],
+        "pair": "fw",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "y"
+        ],
+        "pair": "fy",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "j"
+        ],
+        "pair": "gj",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "g",
+          "v"
+        ],
+        "pair": "gv",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "g",
+          "w"
+        ],
+        "pair": "gw",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "y"
+        ],
+        "pair": "gy",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "v",
+          "f"
+        ],
+        "pair": "vf",
+        "units": 16
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 762
+  },
+  {
+    "file": "LyellSerif-Semibold.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [
+      "fb",
+      "ff",
+      "fh",
+      "fi",
+      "fj",
+      "fk",
+      "fl"
+    ],
+    "repairs": [
+      {
+        "glyphs": [
+          "R",
+          "A"
+        ],
+        "pair": "RA",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "J"
+        ],
+        "pair": "RJ",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "X"
+        ],
+        "pair": "RX",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "R",
+          "f"
+        ],
+        "pair": "Rf",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "x"
+        ],
+        "pair": "Rx",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "X",
+          "f"
+        ],
+        "pair": "Xf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "a",
+          "J"
+        ],
+        "pair": "aJ",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "f",
+          "B"
+        ],
+        "pair": "fB",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "D"
+        ],
+        "pair": "fD",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "E"
+        ],
+        "pair": "fE",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "F"
+        ],
+        "pair": "fF",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "H"
+        ],
+        "pair": "fH",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "I"
+        ],
+        "pair": "fI",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "K"
+        ],
+        "pair": "fK",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "L"
+        ],
+        "pair": "fL",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "M"
+        ],
+        "pair": "fM",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "N"
+        ],
+        "pair": "fN",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "P"
+        ],
+        "pair": "fP",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "R"
+        ],
+        "pair": "fR",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "T"
+        ],
+        "pair": "fT",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "U"
+        ],
+        "pair": "fU",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "V"
+        ],
+        "pair": "fV",
+        "units": 118
+      },
+      {
+        "glyphs": [
+          "f",
+          "W"
+        ],
+        "pair": "fW",
+        "units": 102
+      },
+      {
+        "glyphs": [
+          "f",
+          "X"
+        ],
+        "pair": "fX",
+        "units": 94
+      },
+      {
+        "glyphs": [
+          "f",
+          "Y"
+        ],
+        "pair": "fY",
+        "units": 110
+      },
+      {
+        "glyphs": [
+          "f",
+          "Z"
+        ],
+        "pair": "fZ",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "v"
+        ],
+        "pair": "fv",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "w"
+        ],
+        "pair": "fw",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "f",
+          "y"
+        ],
+        "pair": "fy",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "g",
+          "j"
+        ],
+        "pair": "gj",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "g",
+          "v"
+        ],
+        "pair": "gv",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "w"
+        ],
+        "pair": "gw",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "y"
+        ],
+        "pair": "gy",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "k",
+          "f"
+        ],
+        "pair": "kf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "r",
+          "v"
+        ],
+        "pair": "rv",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "r",
+          "y"
+        ],
+        "pair": "ry",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "v",
+          "f"
+        ],
+        "pair": "vf",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "v",
+          "r"
+        ],
+        "pair": "vr",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "v",
+          "t"
+        ],
+        "pair": "vt",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "w",
+          "f"
+        ],
+        "pair": "wf",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "w",
+          "r"
+        ],
+        "pair": "wr",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "w",
+          "t"
+        ],
+        "pair": "wt",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "x",
+          "f"
+        ],
+        "pair": "xf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "y",
+          "f"
+        ],
+        "pair": "yf",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "y",
+          "r"
+        ],
+        "pair": "yr",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "y",
+          "t"
+        ],
+        "pair": "yt",
+        "units": 24
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 1317
+  },
+  {
+    "file": "LyellSerif-SemiboldItalic.ttf",
+    "pairs_examined": 679,
+    "contextual_join_pairs_excluded": [
+      "fb",
+      "ff",
+      "fh",
+      "fi",
+      "fj",
+      "fk",
+      "fl"
+    ],
+    "repairs": [
+      {
+        "glyphs": [
+          "R",
+          "A"
+        ],
+        "pair": "RA",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "R",
+          "J"
+        ],
+        "pair": "RJ",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "R",
+          "M"
+        ],
+        "pair": "RM",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "N"
+        ],
+        "pair": "RN",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "R",
+          "X"
+        ],
+        "pair": "RX",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "R",
+          "x"
+        ],
+        "pair": "Rx",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "R",
+          "z"
+        ],
+        "pair": "Rz",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "a",
+          "J"
+        ],
+        "pair": "aJ",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "a",
+          "x"
+        ],
+        "pair": "ax",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "f",
+          "B"
+        ],
+        "pair": "fB",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "D"
+        ],
+        "pair": "fD",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "E"
+        ],
+        "pair": "fE",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "F"
+        ],
+        "pair": "fF",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "H"
+        ],
+        "pair": "fH",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "I"
+        ],
+        "pair": "fI",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "K"
+        ],
+        "pair": "fK",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "L"
+        ],
+        "pair": "fL",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "M"
+        ],
+        "pair": "fM",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "N"
+        ],
+        "pair": "fN",
+        "units": 63
+      },
+      {
+        "glyphs": [
+          "f",
+          "P"
+        ],
+        "pair": "fP",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "R"
+        ],
+        "pair": "fR",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "T"
+        ],
+        "pair": "fT",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "f",
+          "U"
+        ],
+        "pair": "fU",
+        "units": 71
+      },
+      {
+        "glyphs": [
+          "f",
+          "V"
+        ],
+        "pair": "fV",
+        "units": 102
+      },
+      {
+        "glyphs": [
+          "f",
+          "W"
+        ],
+        "pair": "fW",
+        "units": 94
+      },
+      {
+        "glyphs": [
+          "f",
+          "X"
+        ],
+        "pair": "fX",
+        "units": 86
+      },
+      {
+        "glyphs": [
+          "f",
+          "Y"
+        ],
+        "pair": "fY",
+        "units": 102
+      },
+      {
+        "glyphs": [
+          "f",
+          "Z"
+        ],
+        "pair": "fZ",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "f",
+          "v"
+        ],
+        "pair": "fv",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "f",
+          "w"
+        ],
+        "pair": "fw",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "f",
+          "y"
+        ],
+        "pair": "fy",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "g",
+          "j"
+        ],
+        "pair": "gj",
+        "units": 102
+      },
+      {
+        "glyphs": [
+          "g",
+          "v"
+        ],
+        "pair": "gv",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "w"
+        ],
+        "pair": "gw",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "g",
+          "y"
+        ],
+        "pair": "gy",
+        "units": 47
+      },
+      {
+        "glyphs": [
+          "r",
+          "f"
+        ],
+        "pair": "rf",
+        "units": 16
+      },
+      {
+        "glyphs": [
+          "r",
+          "v"
+        ],
+        "pair": "rv",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "r",
+          "w"
+        ],
+        "pair": "rw",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "r",
+          "x"
+        ],
+        "pair": "rx",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "r",
+          "y"
+        ],
+        "pair": "ry",
+        "units": 55
+      },
+      {
+        "glyphs": [
+          "t",
+          "v"
+        ],
+        "pair": "tv",
+        "units": 32
+      },
+      {
+        "glyphs": [
+          "t",
+          "w"
+        ],
+        "pair": "tw",
+        "units": 24
+      },
+      {
+        "glyphs": [
+          "t",
+          "y"
+        ],
+        "pair": "ty",
+        "units": 40
+      },
+      {
+        "glyphs": [
+          "z",
+          "R"
+        ],
+        "pair": "zR",
+        "units": 24
+      }
+    ],
+    "remaining_unintended_overlaps": 0,
+    "accent_equivalents_expanded": 1466
+  }
+]

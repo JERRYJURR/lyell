@@ -4,14 +4,14 @@ sys.path.insert(0,str(Path(__file__).resolve().parent.parent/'output'))
 from shaped_raster import ShapedFont
 from fontTools.ttLib import TTFont
 import freetype,uharfbuzz as hb
-ROOT=Path(__file__).resolve().parent/'v0.200';report=[];names=set()
+ROOT=Path(__file__).resolve().parent/(sys.argv[1]if len(sys.argv)>1 else'v0.201');report=[];names=set()
 texts=['ABCDEFGHIJKLMNOPQRSTUVWXYZ abcdefghijklmnopqrstuvwxyz 0123456789','office affinity fluff efficient flight','Quiet reading and rare arrangements.','Á À Â Ä Ã Å Ă Ą á à â ä ã å ă ą ĝ ğ ġ Ŕ Ř ŕ ř ṙ ť ṫ ţ','a\u0301 a\u0308 g\u0306 R\u0301 r\u030c t\u0307']
 for path in sorted(ROOT.glob('*.ttf')):
  f=TTFont(path,checkChecksums=2);ps=f['name'].getDebugName(6);assert ps not in names;names.add(ps)
  isitalic='Italic'in path.stem;assert bool(f['OS/2'].fsSelection&1)==isitalic and bool(f['head'].macStyle&2)==isitalic
  assert (f['post'].italicAngle<0)==isitalic
  assert f['OS/2'].usWeightClass in [400,500,600,700]
- assert f['name'].getDebugName(16)in ['Proof Sans','Proof Serif']
+ assert f['name'].getDebugName(16)in ['Proof Sans','Proof Serif','Lyell Sans','Lyell Serif']
  assert f['name'].getDebugName(13).startswith('Copyright')
  face=freetype.Face(str(path))
  for size in [16,64]:
