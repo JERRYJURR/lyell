@@ -1,0 +1,124 @@
+[
+  {
+    "path": "sources/family/Inter-Italic-400.ttf",
+    "version": "Version 4.001;git-66647c0bb",
+    "sha256": "ef8f755d933b9310804cc9152f1f18cb2ac460d6b05054ec913d889c9f11f79e",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/rsms/inter"
+  },
+  {
+    "path": "sources/family/Inter-Italic-500.ttf",
+    "version": "Version 4.001;git-66647c0bb",
+    "sha256": "f0f1d28363e3a64ef7ed59937b268494ad5e55e76b2c77eaab2f94c80cce17c9",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/rsms/inter"
+  },
+  {
+    "path": "sources/family/Inter-Italic-600.ttf",
+    "version": "Version 4.001;git-66647c0bb",
+    "sha256": "5b6f0c6f26e5c554a64cdcc3a9b5d802b7f9aec6206f1dbcfcdcad7b5860a2a9",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/rsms/inter"
+  },
+  {
+    "path": "sources/family/Inter-Italic-700.ttf",
+    "version": "Version 4.001;git-66647c0bb",
+    "sha256": "c1811d32ac0f6eed1bbf57529f2ecdfc6c717d48a969dd864942436315a1b198",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/rsms/inter"
+  },
+  {
+    "path": "sources/family/Inter-Roman-400.ttf",
+    "version": "Version 4.001;git-66647c0bb",
+    "sha256": "1b08e7fc267a5c7e1d614100f604b83e7e8a0be241f0f288faa2b3ac93a683ba",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/rsms/inter"
+  },
+  {
+    "path": "sources/family/Inter-Roman-500.ttf",
+    "version": "Version 4.001;git-66647c0bb",
+    "sha256": "8c883f63b2c4157d997319f2c8bc6995ed4357ef371940d31ca159004a4aae63",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/rsms/inter"
+  },
+  {
+    "path": "sources/family/Inter-Roman-600.ttf",
+    "version": "Version 4.001;git-66647c0bb",
+    "sha256": "e7a1aaf7eda9f2fad4131725fa556265ec75ca7b2d756260173a040363e8d4f7",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/rsms/inter"
+  },
+  {
+    "path": "sources/family/Inter-Roman-700.ttf",
+    "version": "Version 4.001;git-66647c0bb",
+    "sha256": "b37284b5701b6b168dfc770aa1a4ac492106422fd3ba76bc7641e37434e8019c",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/rsms/inter"
+  },
+  {
+    "path": "sources/family/STIXTwoText-Italic-400.ttf",
+    "version": "Version 2.13 b171",
+    "sha256": "3c252e850ec159962721abe2ee35499a31b518527ba33713dfc60c8d86e50e64",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/stipub/stixfonts"
+  },
+  {
+    "path": "sources/family/STIXTwoText-Italic-500.ttf",
+    "version": "Version 2.13 b171",
+    "sha256": "a1cb7072a0e9c43e4a1e3547d88c4ec4df7a175f97330bbc1bb4a030872c4f53",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/stipub/stixfonts"
+  },
+  {
+    "path": "sources/family/STIXTwoText-Italic-600.ttf",
+    "version": "Version 2.13 b171",
+    "sha256": "810af4ac2922454fc81cf5bfb6dad2546be3b5aaf29d9d7e741bcda2ed9f8668",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/stipub/stixfonts"
+  },
+  {
+    "path": "sources/family/STIXTwoText-Italic-700.ttf",
+    "version": "Version 2.13 b171",
+    "sha256": "2b5305b624a9869f9d6cd9ca6e17533d57990cdc4bd12c5ca7b45a4f5934b0ba",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/stipub/stixfonts"
+  },
+  {
+    "path": "sources/family/STIXTwoText-Roman-400.ttf",
+    "version": "Version 2.13 b171",
+    "sha256": "9e76a14a5163216108729b01b7fcc2e8e0b8a5cf271058c1547b9b2463aa51a5",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/stipub/stixfonts"
+  },
+  {
+    "path": "sources/family/STIXTwoText-Roman-500.ttf",
+    "version": "Version 2.13 b171",
+    "sha256": "3096c8b1a35f19f8c299f579e4afeab7f72b6e0381c1d5bf66935f1524527a3f",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/stipub/stixfonts"
+  },
+  {
+    "path": "sources/family/STIXTwoText-Roman-600.ttf",
+    "version": "Version 2.13 b171",
+    "sha256": "bf240cde3a666d5c58f490a3e42b989d48587eae6b1b90c1a7dee36ce6e5c96a",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/stipub/stixfonts"
+  },
+  {
+    "path": "sources/family/STIXTwoText-Roman-700.ttf",
+    "version": "Version 2.13 b171",
+    "sha256": "038804535f5a839c9180b07ee56ef4b267f255fa015b0fbf4e7cee36d44d9a66",
+    "distribution": "Google Fonts CSS API",
+    "upstream": "https://github.com/stipub/stixfonts"
+  },
+  {
+    "path": "prototypes/v0.103/ProofSans-Regular.ttf",
+    "sha256": "ab6b9afd7d2124660240db84e957482af61d62afce9c8884ce3505df1677d846",
+    "role": "accepted upright contour proof"
+  },
+  {
+    "path": "prototypes/v0.103/ProofSerif-Regular.ttf",
+    "sha256": "0c033160bbc416aebdb4502c4651f2fc29dc9e3f2aa43e1a38bbfff2b2ac5066",
+    "role": "accepted upright contour proof"
+  }
+]

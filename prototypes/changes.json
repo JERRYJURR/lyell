@@ -1,0 +1,288 @@
+[
+  {
+    "font": "ProofSans-Regular.ttf",
+    "source": "output/Inter.ttf",
+    "source_sha256": "1b08e7fc267a5c7e1d614100f604b83e7e8a0be241f0f288faa2b3ac93a683ba",
+    "changed_outlines": {
+      "E": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "K": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "N": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "D": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "Z": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "R": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "M": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "X": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "T": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "H": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "W": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "B": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "U": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "C": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "P": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "F": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "G": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "O": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "Y": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "I": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "S": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "Q": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shorten the inside end and extend the outside end of the Q tail"
+      ],
+      "L": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "J": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "V": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "A": [
+        "Raise positive capital coordinates 3%; retain advance widths"
+      ],
+      "a": [
+        "Reduce the slope of the upper a terminal"
+      ],
+      "g": [
+        "Shorten the g descender 6% below baseline"
+      ]
+    },
+    "glyph_count": 2871,
+    "status": "Basic Latin regular proof; accents, mark positioning, italics, other weights and hinting not finalized"
+  },
+  {
+    "font": "ProofSerif-Regular.ttf",
+    "source": "output/STIX-Two-Text.ttf",
+    "source_sha256": "9e76a14a5163216108729b01b7fcc2e8e0b8a5cf271058c1547b9b2463aa51a5",
+    "changed_outlines": {
+      "E": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "K": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "N": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "D": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "Z": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "R": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "M": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "X": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "T": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "H": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "W": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "B": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "U": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "C": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "P": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "F": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "G": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "O": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "Y": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "I": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "S": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "Q": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Increase the depth of the Q tail 10%",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "L": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "J": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "V": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "A": [
+        "Raise positive capital coordinates 3%; retain advance widths",
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "r": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "q": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "g": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "l": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "d": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "w": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "p": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "c": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "k": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "v": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "y": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "b": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "j": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "x": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "z": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "m": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "n": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "e": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "a": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "t": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "o": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "f": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "u": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "i": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "s": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ],
+      "h": [
+        "Shift outline left to share 1.2% advance reduction across sidebearings"
+      ]
+    },
+    "glyph_count": 1385,
+    "status": "Basic Latin regular proof; accents, mark positioning, italics, other weights and hinting not finalized"
+  }
+]

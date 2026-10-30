@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+# Locally installed proprietary comparison fonts must stay out of Git.
+TestSöhne*
+TestMartinaPlantijn*
+

@@ -1,0 +1,146 @@
+[
+  {
+    "file": "ProofSans-Regular.ttf",
+    "family": "Proof Sans",
+    "style": "Regular",
+    "weight": 400,
+    "italic": false,
+    "glyphs": 2871,
+    "sha256": "fdc0f4261744549ce0f6968bc6bb307ec4704a9981e07e333d7c9ecff622e5c0"
+  },
+  {
+    "file": "ProofSans-Italic.ttf",
+    "family": "Proof Sans",
+    "style": "Italic",
+    "weight": 400,
+    "italic": true,
+    "glyphs": 2835,
+    "sha256": "9e1e67d6ffacd9c51131e95d1afdee7452a0928b9e530caed91f0fad5497ede4"
+  },
+  {
+    "file": "ProofSans-Medium.ttf",
+    "family": "Proof Sans",
+    "style": "Medium",
+    "weight": 500,
+    "italic": false,
+    "glyphs": 2871,
+    "sha256": "fd54b25c3e7d213d1e04f909b50cb5c93a361714299b42c849955fcce63a730f"
+  },
+  {
+    "file": "ProofSans-MediumItalic.ttf",
+    "family": "Proof Sans",
+    "style": "Medium Italic",
+    "weight": 500,
+    "italic": true,
+    "glyphs": 2835,
+    "sha256": "b33b7cea06e13d75f099b455d573dff4ead3d6bad7c4dc7a8849434f92d19340"
+  },
+  {
+    "file": "ProofSans-Semibold.ttf",
+    "family": "Proof Sans",
+    "style": "Semibold",
+    "weight": 600,
+    "italic": false,
+    "glyphs": 2871,
+    "sha256": "a953aff36febb2514715a5c1f8fa82d16dcaf57923ceddec85a225ffae993e40"
+  },
+  {
+    "file": "ProofSans-SemiboldItalic.ttf",
+    "family": "Proof Sans",
+    "style": "Semibold Italic",
+    "weight": 600,
+    "italic": true,
+    "glyphs": 2835,
+    "sha256": "e43b398aa9e9bf6acc357fbadb2926a11ad011d7153cb72a5dd15ba49922e145"
+  },
+  {
+    "file": "ProofSans-Bold.ttf",
+    "family": "Proof Sans",
+    "style": "Bold",
+    "weight": 700,
+    "italic": false,
+    "glyphs": 2871,
+    "sha256": "3c29aa7a236833b3538df0f75245d9242a78bf046e58b8abd4475fbb4bda09fd"
+  },
+  {
+    "file": "ProofSans-BoldItalic.ttf",
+    "family": "Proof Sans",
+    "style": "Bold Italic",
+    "weight": 700,
+    "italic": true,
+    "glyphs": 2835,
+    "sha256": "75a6d00dd2c1300759c94bcb20e6f91003d8f34751c7d8308dbcabdb74baa2f0"
+  },
+  {
+    "file": "ProofSerif-Regular.ttf",
+    "family": "Proof Serif",
+    "style": "Regular",
+    "weight": 400,
+    "italic": false,
+    "glyphs": 1385,
+    "sha256": "0e11b8931dcd8e9d7d3ffb9871a1008ab30e23204f907b05a95685c6daee2926"
+  },
+  {
+    "file": "ProofSerif-Italic.ttf",
+    "family": "Proof Serif",
+    "style": "Italic",
+    "weight": 400,
+    "italic": true,
+    "glyphs": 1391,
+    "sha256": "d2660333d40b858c9ffcede3d94c5151e82aabe9d49a8195d463c4efc6875c37"
+  },
+  {
+    "file": "ProofSerif-Medium.ttf",
+    "family": "Proof Serif",
+    "style": "Medium",
+    "weight": 500,
+    "italic": false,
+    "glyphs": 1385,
+    "sha256": "dc8bfa7218572f11a0108731ebfebc424c8b7bcf96cc0fe3d5a16ebbe94a9def"
+  },
+  {
+    "file": "ProofSerif-MediumItalic.ttf",
+    "family": "Proof Serif",
+    "style": "Medium Italic",
+    "weight": 500,
+    "italic": true,
+    "glyphs": 1391,
+    "sha256": "25a28c293f055f5ba319bab5d34df63f5b40d7ebeb76cd9b2cdd00af4b3225f9"
+  },
+  {
+    "file": "ProofSerif-Semibold.ttf",
+    "family": "Proof Serif",
+    "style": "Semibold",
+    "weight": 600,
+    "italic": false,
+    "glyphs": 1385,
+    "sha256": "5551da743d8bab3f2109b4733368ce6b9f3495a291075c0ca1a27bba9890afff"
+  },
+  {
+    "file": "ProofSerif-SemiboldItalic.ttf",
+    "family": "Proof Serif",
+    "style": "Semibold Italic",
+    "weight": 600,
+    "italic": true,
+    "glyphs": 1391,
+    "sha256": "3bcc8d68dbee85fa61a7c619ef68269d10560472e450c890fcd7211d152b8657"
+  },
+  {
+    "file": "ProofSerif-Bold.ttf",
+    "family": "Proof Serif",
+    "style": "Bold",
+    "weight": 700,
+    "italic": false,
+    "glyphs": 1385,
+    "sha256": "5bd5ecaa8e62d62b84a96760a093fe504ec9fb6c29f338c39d8d112387caeb40"
+  },
+  {
+    "file": "ProofSerif-BoldItalic.ttf",
+    "family": "Proof Serif",
+    "style": "Bold Italic",
+    "weight": 700,
+    "italic": true,
+    "glyphs": 1391,
+    "sha256": "c2194806519efe497c0793b5d6f6b9d87fe268a394fa349d9898d18d88d64e41"
+  }
+]

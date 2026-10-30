@@ -1,0 +1,182 @@
+[
+  {
+    "font": "ProofSans-Regular.ttf",
+    "base_version": "0.101",
+    "base_sha256": "73c3864b6788fba36cfc120a5ded110249d05273c76c065122e7c0c78382de7b",
+    "changes": [
+      {
+        "glyph": "a",
+        "edit": "Adjust ink width +6.0% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "s",
+        "edit": "Adjust ink width +4.0% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "o",
+        "edit": "Adjust ink width +1.5% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "O",
+        "edit": "Adjust ink width +3.5% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "Q",
+        "edit": "Adjust ink width +3.5% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "R",
+        "edit": "Adjust ink width +4.0% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "G",
+        "edit": "Adjust ink width +2.0% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "t",
+        "edit": "Adjust ink width +4.0% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "f",
+        "edit": "Adjust ink width -8.0% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "t",
+        "edit": "Raise the t ascender above x-height, retaining its crossbar"
+      },
+      {
+        "glyph": "a",
+        "advance_change": -0.015
+      },
+      {
+        "glyph": "s",
+        "advance_change": -0.02
+      },
+      {
+        "glyph": "o",
+        "advance_change": -0.01
+      },
+      {
+        "glyph": "O",
+        "advance_change": -0.005
+      },
+      {
+        "glyph": "Q",
+        "advance_change": -0.005
+      },
+      {
+        "glyph": "R",
+        "advance_change": 0.03
+      },
+      {
+        "glyph": "t",
+        "advance_change": 0.05
+      },
+      {
+        "glyph": "f",
+        "advance_change": -0.08
+      },
+      {
+        "glyph": " ",
+        "advance_change": -0.17
+      },
+      {
+        "glyph": "\u00a0",
+        "advance_change": -0.17
+      }
+    ],
+    "limitations": "Regular basic Latin study. Accent offsets, mark anchors, derived ligature forms, other scripts and hinting are not finalized."
+  },
+  {
+    "font": "ProofSerif-Regular.ttf",
+    "base_version": "0.101",
+    "base_sha256": "4871fc95f7aa059456247c91263925e23ac408897e9af9f396d8e52e73899569",
+    "changes": [
+      {
+        "glyph": "a",
+        "edit": "Adjust ink width -2.0% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "e",
+        "edit": "Adjust ink width -2.0% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "r",
+        "edit": "Adjust ink width +4.0% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "t",
+        "edit": "Adjust ink width +7.0% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "f",
+        "edit": "Adjust ink width +5.0% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "g",
+        "edit": "Adjust ink width +3.0% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "G",
+        "edit": "Adjust ink width +2.0% with smooth displacement, preserving vertical coordinates"
+      },
+      {
+        "glyph": "t",
+        "edit": "Lower the pointed t ascender while retaining the crossbar"
+      },
+      {
+        "glyph": "f",
+        "edit": "Lift the f ascender above x-height"
+      },
+      {
+        "glyph": "a",
+        "advance_change": -0.015
+      },
+      {
+        "glyph": "e",
+        "advance_change": -0.015
+      },
+      {
+        "glyph": "r",
+        "advance_change": 0.04
+      },
+      {
+        "glyph": "t",
+        "advance_change": 0.06
+      },
+      {
+        "glyph": "f",
+        "advance_change": 0.04
+      },
+      {
+        "glyph": "g",
+        "advance_change": 0.015
+      },
+      {
+        "glyph": "n",
+        "advance_change": -0.008
+      },
+      {
+        "glyph": "u",
+        "advance_change": -0.02
+      },
+      {
+        "glyph": "O",
+        "advance_change": -0.015
+      },
+      {
+        "glyph": "Q",
+        "advance_change": -0.015
+      },
+      {
+        "glyph": " ",
+        "advance_change": -0.22
+      },
+      {
+        "glyph": "\u00a0",
+        "advance_change": -0.22
+      }
+    ],
+    "limitations": "Regular basic Latin study. Accent offsets, mark anchors, derived ligature forms, other scripts and hinting are not finalized."
+  }
+]

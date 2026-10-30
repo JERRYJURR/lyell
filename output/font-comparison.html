@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Font comparison</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:opsz,wght@14..32,400..500&family=Work+Sans:wght@400..500&family=Source+Serif+4:ital,opsz,wght@0,8..60,400..500;1,8..60,400..500&family=Newsreader:ital,opsz,wght@0,6..72,400..500;1,6..72,400..500&display=block">
+<style>
+:root{color-scheme:light dark}body{margin:0;font-family:var(--font-sans,system-ui);color:var(--foreground);font-size:14px}*{box-sizing:border-box}#font-comparison{--sample-size:20px;--sample-weight:400}label{display:flex;gap:8px;align-items:center;flex-wrap:wrap}select,textarea,input{font:inherit;color:var(--foreground);background:var(--background);border:1px solid var(--border);border-radius:6px}select{padding:7px}textarea{width:100%;padding:10px;resize:vertical;margin:8px 0 16px}.controls{display:flex;gap:16px;flex-wrap:wrap;margin:4px 0 12px}.pair{display:grid;grid-template-columns:1fr 1fr;gap:28px}.section{margin:20px 0 30px}.section-heading{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap;border-bottom:1px solid var(--border);padding-bottom:10px}h2{font-size:16px;font-weight:500;margin:0}h3{font:500 13px var(--font-sans,system-ui);margin:20px 0 12px}.sample{font-family:var(--face);font-weight:var(--sample-weight);font-synthesis:none;font-optical-sizing:auto;overflow-wrap:anywhere}.headline{font-size:36px;line-height:1.16;letter-spacing:-.018em;margin:0 0 14px}.body-sample,.italic{font-size:var(--sample-size);line-height:1.5;margin:0 0 14px}.glyphs{font-size:29px;line-height:1.5;margin:0;word-spacing:.13em}.italic{font-style:italic}.normalize .sample{font-size-adjust:.5}a{color:var(--foreground);text-underline-offset:3px}.note{color:var(--muted-foreground);font-size:12px;line-height:1.5}.diagnostic{border-top:1px solid var(--border);padding-top:10px}.font-status{font-size:12px;color:var(--muted-foreground)}@media(max-width:540px){.pair{grid-template-columns:1fr;gap:4px}.headline{font-size:32px}}
+</style></head><body>
+<main id="font-comparison" class="normalize">
+<div class="controls">
+<label>Body size <select id="size" class="form-select"><option>16</option><option selected>20</option><option>24</option><option>28</option></select> px</label>
+<label>Weight <select id="weight" class="form-select"><option value="400">Regular · 400</option><option value="500">Medium · 500</option></select></label>
+<label><input id="normalize" type="checkbox" checked> Match lowercase height</label>
+</div>
+<label for="copy">Shared specimen text</label>
+<textarea id="copy" class="form-control" rows="3">The quiet character of everyday things becomes clearer when we take the time to look. A well-made book, a familiar street, a small café on the corner: ordinary details give a place its identity.</textarea>
+<div class="font-status" id="status" role="status">Loading specimen fonts…</div>
+<section class="section" aria-labelledby="sans-title"><div class="section-heading"><h2 id="sans-title">Sans candidates → Söhne</h2><a href="https://klim.co.nz/blog/soehne-design-information/" target="_blank" rel="noopener">Klim reference ↗</a></div>
+<div class="pair">
+<article style="--face:'Inter'"><h3>01 / Inter</h3><p class="sample headline">A familiar place.<br>A different feeling.</p><p class="sample body-sample"></p><div class="diagnostic"><p class="sample glyphs">a g e s t r · R G Q<br>Hamburgefontsiv<br>0123456789 &amp; @ ?</p></div></article>
+<article style="--face:'Work Sans'"><h3>02 / Work Sans</h3><p class="sample headline">A familiar place.<br>A different feeling.</p><p class="sample body-sample"></p><div class="diagnostic"><p class="sample glyphs">a g e s t r · R G Q<br>Hamburgefontsiv<br>0123456789 &amp; @ ?</p></div></article>
+</div></section>
+<section class="section" aria-labelledby="serif-title"><div class="section-heading"><h2 id="serif-title">Serif candidates → Martina Plantijn</h2><a href="https://klim.co.nz/blog/martina-plantijn-design-information/" target="_blank" rel="noopener">Klim reference ↗</a></div>
+<div class="pair">
+<article style="--face:'Source Serif 4'"><h3>03 / Source Serif 4</h3><p class="sample headline">The shape of<br>things remembered.</p><p class="sample body-sample"></p><p class="sample italic">A quiet voice, with something to say.</p><div class="diagnostic"><p class="sample glyphs">a g e s t r · R G Q<br>Hamburgefontsiv<br>0123456789 &amp; @ ?</p></div></article>
+<article style="--face:'Newsreader'"><h3>04 / Newsreader</h3><p class="sample headline">The shape of<br>things remembered.</p><p class="sample body-sample"></p><p class="sample italic">A quiet voice, with something to say.</p><div class="diagnostic"><p class="sample glyphs">a g e s t r · R G Q<br>Hamburgefontsiv<br>0123456789 &amp; @ ?</p></div></article>
+</div></section>
+<p class="note">Unmodified open fonts. Klim fonts are reference links, not embedded specimens. Lowercase matching uses a common x-height ratio of 0.5; numeric weight is shared, not optically equalized. Optical sizing is automatic where supported.</p>
+<p class="note">Sources: <a href="https://rsms.me/inter/" target="_blank" rel="noopener">Inter</a> · <a href="https://github.com/weiweihuanghuang/Work-Sans" target="_blank" rel="noopener">Work Sans</a> · <a href="https://github.com/adobe-fonts/source-serif" target="_blank" rel="noopener">Source Serif 4</a> · <a href="https://github.com/productiontype/NewsReader" target="_blank" rel="noopener">Newsreader</a></p>
+</main>
+<script>
+(()=>{const root=document.getElementById('font-comparison'),copy=document.getElementById('copy'),size=document.getElementById('size'),weight=document.getElementById('weight'),normalize=document.getElementById('normalize'),status=document.getElementById('status');
+function update(){root.style.setProperty('--sample-size',size.value+'px');root.style.setProperty('--sample-weight',weight.value);root.classList.toggle('normalize',normalize.checked);root.querySelectorAll('.body-sample').forEach(el=>el.textContent=copy.value)}
+for(const el of [copy,size,weight,normalize])el.addEventListener('input',update);update();
+const faces=['Inter','Work Sans','Source Serif 4','Newsreader'];
+Promise.all(faces.map(face=>document.fonts.load('400 20px "'+face+'"')).concat(['Source Serif 4','Newsreader'].map(face=>document.fonts.load('italic 400 20px "'+face+'"')))).then(results=>{status.textContent=results.every(r=>r.length)?'All four specimen fonts loaded.':'Some fonts did not load. Reopen with an internet connection.'}).catch(()=>status.textContent='Font loading failed. Reopen with an internet connection.');
+})();
+</script></body></html>

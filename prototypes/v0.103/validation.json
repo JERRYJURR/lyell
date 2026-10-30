@@ -1,0 +1,40 @@
+{
+  "Sans": {
+    "glyphs_rendered_at_each_size": 2871,
+    "raster_sizes": [
+      16,
+      64
+    ],
+    "letter_pairs_checked": 303,
+    "collisions": [],
+    "accented_characters_checked": 45,
+    "checks": [
+      "cmap preserved",
+      "font reload and checksums",
+      "names and licence",
+      "glyph topology",
+      "all-glyph rendering",
+      "pair collision scan",
+      "precomposed and decomposed accent shaping"
+    ]
+  },
+  "Serif": {
+    "glyphs_rendered_at_each_size": 1385,
+    "raster_sizes": [
+      16,
+      64
+    ],
+    "letter_pairs_checked": 303,
+    "collisions": [],
+    "accented_characters_checked": 15,
+    "checks": [
+      "cmap preserved",
+      "font reload and checksums",
+      "names and licence",
+      "glyph topology",
+      "all-glyph rendering",
+      "pair collision scan",
+      "precomposed and decomposed accent shaping"
+    ]
+  }
+}

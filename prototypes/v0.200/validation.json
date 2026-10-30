@@ -1,0 +1,178 @@
+[
+  {
+    "file": "ProofSans-Bold.ttf",
+    "glyphs_rendered_at_each_size": 2871,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSans-BoldItalic.ttf",
+    "glyphs_rendered_at_each_size": 2835,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSans-Italic.ttf",
+    "glyphs_rendered_at_each_size": 2835,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSans-Medium.ttf",
+    "glyphs_rendered_at_each_size": 2871,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSans-MediumItalic.ttf",
+    "glyphs_rendered_at_each_size": 2835,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSans-Regular.ttf",
+    "glyphs_rendered_at_each_size": 2871,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSans-Semibold.ttf",
+    "glyphs_rendered_at_each_size": 2871,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSans-SemiboldItalic.ttf",
+    "glyphs_rendered_at_each_size": 2835,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSerif-Bold.ttf",
+    "glyphs_rendered_at_each_size": 1385,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSerif-BoldItalic.ttf",
+    "glyphs_rendered_at_each_size": 1391,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSerif-Italic.ttf",
+    "glyphs_rendered_at_each_size": 1391,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSerif-Medium.ttf",
+    "glyphs_rendered_at_each_size": 1385,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSerif-MediumItalic.ttf",
+    "glyphs_rendered_at_each_size": 1391,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSerif-Regular.ttf",
+    "glyphs_rendered_at_each_size": 1385,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSerif-Semibold.ttf",
+    "glyphs_rendered_at_each_size": 1385,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  },
+  {
+    "file": "ProofSerif-SemiboldItalic.ttf",
+    "glyphs_rendered_at_each_size": 1391,
+    "sizes": [
+      16,
+      64
+    ],
+    "style_metadata": "passed",
+    "shaping_and_accent_samples": "passed",
+    "topology_and_reload": "passed"
+  }
+]
